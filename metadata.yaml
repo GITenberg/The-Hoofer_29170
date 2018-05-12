@@ -1,0 +1,32 @@
+_repo: The-Hoofer_29170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Walter M.
+    aliases:
+    - Miller, W. M. (Walter M.)
+    - Miller, Walter Michael
+    birthdate: 1923
+    deathdate: 1996
+    gutenberg_agent_id: '33738'
+    url: http://www.gutenberg.org/2009/agents/33738
+    wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Hoofer
+url: http://www.gutenberg.org/ebooks/29170
